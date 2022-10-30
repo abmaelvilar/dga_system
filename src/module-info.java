@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author abmae
+ *
+ */
+module DGA {
+}
